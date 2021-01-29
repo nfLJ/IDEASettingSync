@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="200" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_EDITOR_TOOLTIP" value="false" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+  </component>
+</application>

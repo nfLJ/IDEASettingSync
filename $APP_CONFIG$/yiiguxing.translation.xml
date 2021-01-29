@@ -1,0 +1,68 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="reassign" />
+      <item value="multiple" />
+      <item value="Fanout" />
+      <item value="queried" />
+      <item value="bridge" />
+      <item value="captcha Producer Math" />
+      <item value="captcha" />
+      <item value="Mime Type Utils" />
+      <item value="Mime" />
+      <item value="Authentication" />
+      <item value="Wrapper" />
+      <item value="global" />
+      <item value="glbal" />
+      <item value="Glbal" />
+      <item value="constant" />
+      <item value="axios" />
+      <item value="Audit" />
+      <item value="encode" />
+      <item value="External" />
+      <item value="Commodity" />
+      <item value="Award" />
+      <item value="Coupon" />
+      <item value="Duplicated" />
+      <item value="redundant" />
+      <item value="nanos" />
+      <item value="Benchmark" />
+      <item value="Deprecated" />
+      <item value="The command to run when tripped" />
+      <item value="command" />
+      <item value="tripped" />
+      <item value="PROPAGATE" />
+      <item value="CONDITION" />
+      <item value="SIGNAL" />
+      <item value="CANCEL" />
+      <item value="Target" />
+      <item value="Retention" />
+      <item value="A task that can be scheduled for one-time or repeated execution by a Timer." />
+      <item value="Mapper Builder Assistant" />
+      <item value="Locale" />
+      <item value="Log" />
+      <item value="Multipart" />
+      <item value="State" />
+      <item value="cglib" />
+      <item value="Library" />
+      <item value="lib" />
+      <item value="Bean Post Processor" />
+      <item value="Nested Runtime Exception" />
+      <item value="Nested" />
+      <item value="grain" />
+      <item value="* {@code InvocationHandler} is the interface implemented by * the &lt;i&gt;invocation handler&lt;/i&gt; of a proxy instance. * * &lt;p&gt;Each proxy instance has an associated invocation handler. * When a method is invoked on a proxy instance, the method * invocation is encoded and dispatched to the {@code invoke} * method of its invocation handler." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
+        <entry key="SLOVENIAN" value="1" />
+        <entry key="UZBEK" value="3" />
+        <entry key="ITALIAN" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1611898094533" />
+  </component>
+</application>
