@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="568" />
+    <option name="newTranslationDialogY" value="343" />
     <histories>
+      <item value="Raw use of parameterized class 'FilterRegistrationBean'" />
       <item value="reassign" />
       <item value="multiple" />
       <item value="Fanout" />
@@ -50,7 +54,6 @@
       <item value="Nested Runtime Exception" />
       <item value="Nested" />
       <item value="grain" />
-      <item value="* {@code InvocationHandler} is the interface implemented by * the &lt;i&gt;invocation handler&lt;/i&gt; of a proxy instance. * * &lt;p&gt;Each proxy instance has an associated invocation handler. * When a method is invoked on a proxy instance, the method * invocation is encoded and dispatched to the {@code invoke} * method of its invocation handler." />
     </histories>
     <option name="languageScores">
       <map>
