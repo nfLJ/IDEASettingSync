@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="343" />
     <histories>
+      <item value="drag&#10;" />
+      <item value="drag" />
       <item value="Raw use of parameterized class 'FilterRegistrationBean'" />
       <item value="reassign" />
       <item value="multiple" />
@@ -52,8 +54,6 @@
       <item value="lib" />
       <item value="Bean Post Processor" />
       <item value="Nested Runtime Exception" />
-      <item value="Nested" />
-      <item value="grain" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611898094533" />
+    <option name="lastTrimTime" value="1612452182935" />
   </component>
 </application>
