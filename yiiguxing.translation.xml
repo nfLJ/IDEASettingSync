@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="343" />
     <histories>
+      <item value="explode" />
+      <item value="exploded" />
+      <item value="explo" />
+      <item value="exple" />
+      <item value="exp" />
+      <item value="exploded&#10;" />
       <item value="This sample project demonstrates how to use https:projects.spring.iospring-ws[Spring Web Services] with Spring Boot. It is an implementation of the https:docs.spring.iospring-wssitereferencehtmltutorial.htmltutorial.implementing.endpoint[Holiday Request sample] in the Spring Web Services reference guide. The sample uses Maven. It can be built and run from the command line:" />
       <item value="negotiated" />
       <item value="Externalized" />
@@ -48,12 +54,6 @@
       <item value="SIGNAL" />
       <item value="CANCEL" />
       <item value="Target" />
-      <item value="Retention" />
-      <item value="A task that can be scheduled for one-time or repeated execution by a Timer." />
-      <item value="Mapper Builder Assistant" />
-      <item value="Locale" />
-      <item value="Log" />
-      <item value="Multipart" />
     </histories>
     <option name="languageScores">
       <map>
