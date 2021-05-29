@@ -1,0 +1,71 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogX" value="463" />
+    <option name="newTranslationDialogY" value="302" />
+    <histories>
+      <item value="explode" />
+      <item value="exploded" />
+      <item value="explo" />
+      <item value="exple" />
+      <item value="exp" />
+      <item value="exploded&#10;" />
+      <item value="This sample project demonstrates how to use https:projects.spring.iospring-ws[Spring Web Services] with Spring Boot. It is an implementation of the https:docs.spring.iospring-wssitereferencehtmltutorial.htmltutorial.implementing.endpoint[Holiday Request sample] in the Spring Web Services reference guide. The sample uses Maven. It can be built and run from the command line:" />
+      <item value="negotiated" />
+      <item value="Externalized" />
+      <item value="compatibility" />
+      <item value="introspection" />
+      <item value="Wrapper" />
+      <item value="A container object which may or may not contain a non-null value. If a value is present, {@code isPresent()} will return {@code true} and {@code get()} will return the value." />
+      <item value="Audit" />
+      <item value="drag&#10;" />
+      <item value="drag" />
+      <item value="Raw use of parameterized class 'FilterRegistrationBean'" />
+      <item value="reassign" />
+      <item value="multiple" />
+      <item value="Fanout" />
+      <item value="queried" />
+      <item value="bridge" />
+      <item value="captcha Producer Math" />
+      <item value="captcha" />
+      <item value="Mime Type Utils" />
+      <item value="Mime" />
+      <item value="Authentication" />
+      <item value="global" />
+      <item value="glbal" />
+      <item value="Glbal" />
+      <item value="constant" />
+      <item value="axios" />
+      <item value="encode" />
+      <item value="External" />
+      <item value="Commodity" />
+      <item value="Award" />
+      <item value="Coupon" />
+      <item value="Duplicated" />
+      <item value="redundant" />
+      <item value="nanos" />
+      <item value="Benchmark" />
+      <item value="Deprecated" />
+      <item value="The command to run when tripped" />
+      <item value="command" />
+      <item value="tripped" />
+      <item value="PROPAGATE" />
+      <item value="CONDITION" />
+      <item value="SIGNAL" />
+      <item value="CANCEL" />
+      <item value="Target" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
+        <entry key="SLOVENIAN" value="1" />
+        <entry key="UZBEK" value="3" />
+        <entry key="ITALIAN" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1615871971693" />
+  </component>
+</application>
