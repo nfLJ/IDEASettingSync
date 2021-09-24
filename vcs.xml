@@ -50,6 +50,10 @@
           <option name="url" value="https://gitee.com/nfLJ/nfLJ.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/nfLJ/RuoYi-Vue.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Project\Java" />
