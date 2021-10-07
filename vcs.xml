@@ -66,6 +66,10 @@
           <option name="url" value="http://10.10.2.197:8087/EZYL/EZYL.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.10.2.197:8087/hihis/hihis-base.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Exchange" />
