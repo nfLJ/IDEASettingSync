@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="463" />
     <option name="newTranslationDialogY" value="302" />
     <histories>
+      <item value="工号" />
       <item value="账户" />
       <item value="mute" />
       <item value="explode" />
@@ -53,7 +54,6 @@
       <item value="tripped" />
       <item value="PROPAGATE" />
       <item value="CONDITION" />
-      <item value="SIGNAL" />
     </histories>
     <option name="languageScores">
       <map>
