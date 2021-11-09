@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="463" />
     <option name="newTranslationDialogY" value="302" />
     <histories>
+      <item value="information" />
+      <item value="instance" />
+      <item value="A BeanDefinition describes a bean instance, which has property values, constructor argument values, and further information supplied by concrete implementations." />
       <item value="recurses infinitely, and can only end by throwing an exception &#10;" />
       <item value="工号" />
       <item value="账户" />
@@ -51,14 +54,11 @@
       <item value="Benchmark" />
       <item value="Deprecated" />
       <item value="The command to run when tripped" />
-      <item value="command" />
-      <item value="tripped" />
-      <item value="PROPAGATE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="ITALIAN" value="3" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635729266147" />
+    <option name="lastTrimTime" value="1636423874879" />
   </component>
 </application>
