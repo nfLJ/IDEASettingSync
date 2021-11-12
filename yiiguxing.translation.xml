@@ -1,9 +1,27 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="576" />
+    <option name="newTranslationDialogWidth" value="542" />
     <option name="newTranslationDialogX" value="463" />
     <option name="newTranslationDialogY" value="302" />
     <histories>
+      <item value="货币" />
+      <item value="货币误差" />
+      <item value="电子健康卡" />
+      <item value="电子" />
+      <item value="一卡通" />
+      <item value="一卡通支付宝" />
+      <item value="聚合支付" />
+      <item value="聚合" />
+      <item value="减免" />
+      <item value="住院预交金" />
+      <item value="住院" />
+      <item value="空白支票" />
+      <item value="空白" />
+      <item value="支票" />
+      <item value="储蓄金" />
+      <item value="现金&#10;" />
+      <item value="cash" />
+      <item value="现金" />
       <item value="information" />
       <item value="instance" />
       <item value="A BeanDefinition describes a bean instance, which has property values, constructor argument values, and further information supplied by concrete implementations." />
@@ -36,29 +54,11 @@
       <item value="captcha Producer Math" />
       <item value="captcha" />
       <item value="Mime Type Utils" />
-      <item value="Mime" />
-      <item value="Authentication" />
-      <item value="global" />
-      <item value="glbal" />
-      <item value="Glbal" />
-      <item value="constant" />
-      <item value="axios" />
-      <item value="encode" />
-      <item value="External" />
-      <item value="Commodity" />
-      <item value="Award" />
-      <item value="Coupon" />
-      <item value="Duplicated" />
-      <item value="redundant" />
-      <item value="nanos" />
-      <item value="Benchmark" />
-      <item value="Deprecated" />
-      <item value="The command to run when tripped" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="59" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="ITALIAN" value="3" />
