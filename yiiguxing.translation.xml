@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="542" />
-    <option name="newTranslationDialogX" value="463" />
-    <option name="newTranslationDialogY" value="302" />
+    <option name="newTranslationDialogWidth" value="540" />
+    <option name="newTranslationDialogX" value="523" />
+    <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="compatible" />
       <item value="货币" />
       <item value="货币误差" />
       <item value="电子健康卡" />
@@ -53,11 +54,10 @@
       <item value="bridge" />
       <item value="captcha Producer Math" />
       <item value="captcha" />
-      <item value="Mime Type Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
+        <entry key="CHINESE" value="60" />
         <entry key="ENGLISH" value="59" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636423874879" />
+    <option name="lastTrimTime" value="1636961755498" />
   </component>
 </application>
