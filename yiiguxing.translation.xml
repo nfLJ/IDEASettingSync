@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="540" />
+    <option name="newTranslationDialogWidth" value="534" />
     <option name="newTranslationDialogX" value="523" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="tracker" />
+      <item value="arrows" />
+      <item value="arroes" />
+      <item value="presentation" />
+      <item value="pre" />
+      <item value="ahead" />
       <item value="compatible" />
       <item value="货币" />
       <item value="货币误差" />
@@ -48,17 +54,11 @@
       <item value="drag" />
       <item value="Raw use of parameterized class 'FilterRegistrationBean'" />
       <item value="reassign" />
-      <item value="multiple" />
-      <item value="Fanout" />
-      <item value="queried" />
-      <item value="bridge" />
-      <item value="captcha Producer Math" />
-      <item value="captcha" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="60" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="ITALIAN" value="3" />
