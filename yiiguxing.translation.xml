@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="523" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="医生代码" />
       <item value="111" />
       <item value="1111R" />
       <item value="11" />
@@ -53,7 +54,6 @@
       <item value="Wrapper" />
       <item value="A container object which may or may not contain a non-null value. If a value is present, {@code isPresent()} will return {@code true} and {@code get()} will return the value." />
       <item value="Audit" />
-      <item value="drag&#10;" />
     </histories>
     <option name="languageScores">
       <map>
