@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="523" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="YY" />
+      <item value="YYH" />
       <item value="Wrapper" />
       <item value="escape" />
       <item value="e" />
@@ -52,12 +54,10 @@
       <item value="This sample project demonstrates how to use https:projects.spring.iospring-ws[Spring Web Services] with Spring Boot. It is an implementation of the https:docs.spring.iospring-wssitereferencehtmltutorial.htmltutorial.implementing.endpoint[Holiday Request sample] in the Spring Web Services reference guide. The sample uses Maven. It can be built and run from the command line:" />
       <item value="negotiated" />
       <item value="Externalized" />
-      <item value="compatibility" />
-      <item value="introspection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
+        <entry key="CHINESE" value="90" />
         <entry key="ENGLISH" value="82" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636961755498" />
+    <option name="lastTrimTime" value="1637828399354" />
   </component>
 </application>
