@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="523" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="KSPB" />
       <item value="set" />
       <item value="QH" />
       <item value="YY" />
@@ -53,11 +54,10 @@
       <item value="explode" />
       <item value="exploded" />
       <item value="explo" />
-      <item value="exple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
+        <entry key="CHINESE" value="102" />
         <entry key="ENGLISH" value="93" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
