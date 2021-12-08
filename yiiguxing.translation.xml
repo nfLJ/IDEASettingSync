@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="523" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="Wrapper" />
       <item value="get" />
       <item value="KSPB" />
       <item value="set" />
@@ -13,7 +14,6 @@
       <item value="Q" />
       <item value="现金支付金额" />
       <item value="YJ" />
-      <item value="Wrapper" />
       <item value="escape" />
       <item value="e" />
       <item value="医生代码" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="ITALIAN" value="3" />
