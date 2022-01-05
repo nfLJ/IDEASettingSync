@@ -1,13 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="528" />
+    <option name="newTranslationDialogWidth" value="520" />
     <option name="newTranslationDialogX" value="523" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="医生" />
+      <item value="核酸医嘱" />
+      <item value="核酸" />
+      <item value="核酸开单" />
       <item value="新冠核酸开单" />
       <item value="新冠开单" />
-      <item value="核酸开单" />
-      <item value="核酸" />
       <item value="set Type" />
       <item value="get" />
       <item value="Constraint Violation" />
@@ -52,13 +54,11 @@
       <item value="支票" />
       <item value="储蓄金" />
       <item value="现金&#10;" />
-      <item value="cash" />
-      <item value="现金" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="104" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="ITALIAN" value="3" />
