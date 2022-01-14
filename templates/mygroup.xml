@@ -1,7 +1,5 @@
 <templateSet group="mygroup">
-  <template name="ljcom" value="/**&#10; * @param $what$&#10; * @return $return$&#10; */" description="addcommend" toReformat="false" toShortenFQNames="true">
-    <variable name="what" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
-    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+  <template name="ljcom" value="/**&#10; * @author liujiang&#10; * @desc&#10; */" description="addcommend" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
