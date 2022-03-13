@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="520" />
-    <option name="newTranslationDialogX" value="523" />
-    <option name="newTranslationDialogY" value="309" />
+    <option name="newTranslationDialogWidth" value="518" />
+    <option name="newTranslationDialogX" value="-1286" />
+    <option name="newTranslationDialogY" value="643" />
     <histories>
       <item value="Since proceed(..) in this case takes an Object array, AspectJ cannot do as much compile time checking as it can for code style. If the rules above aren't obeyed then it will unfortunately manifest as a runtime error. Params: args – the arguments to proceed with Returns: the result of proceeding Throws: Throwable – if the invoked proceed throws anything" />
       <item value="医生" />
