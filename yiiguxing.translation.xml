@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-1286" />
     <option name="newTranslationDialogY" value="643" />
     <histories>
+      <item value="Abstract implementation of the ApplicationContext interface. Doesn't mandate the type of storage used for configuration; simply implements common context functionality. Uses the Template Method design pattern, requiring concrete subclasses to implement abstract methods. In contrast to a plain BeanFactory, an ApplicationContext is supposed to detect special beans defined in its internal bean factory: Therefore, this class automatically registers BeanFactoryPostProcessors, BeanPostProcessors, and ApplicationListeners which are defined as beans in the context. A MessageSource may also be supplied as a bean in the context, with the name &quot;messageSource&quot;; otherwise, message resolution is delegated to the parent context. Furthermore, a multicaster for application events can be supplied as an &quot;applicationEventMulticaster&quot; bean of type ApplicationEventMulticaster in the context; otherwise, a default multicaster of type SimpleApplicationEventMulticaster will be used. Implements resource loading by extending DefaultResourceLoader. Consequently treats non-URL resource paths as class path resources (supporting full class path resource names that include the package path, e.g. &quot;mypackagemyresource.dat&quot;), unless the getResourceByPath method is overridden in a subclass." />
       <item value="Since proceed(..) in this case takes an Object array, AspectJ cannot do as much compile time checking as it can for code style. If the rules above aren't obeyed then it will unfortunately manifest as a runtime error. Params: args – the arguments to proceed with Returns: the result of proceeding Throws: Throwable – if the invoked proceed throws anything" />
       <item value="医生" />
       <item value="核酸医嘱" />
@@ -53,12 +54,11 @@
       <item value="空白支票" />
       <item value="空白" />
       <item value="支票" />
-      <item value="储蓄金" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="ITALIAN" value="3" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642648678370" />
+    <option name="lastTrimTime" value="1647241884189" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
