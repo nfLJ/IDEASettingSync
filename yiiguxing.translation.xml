@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="344" />
     <histories>
+      <item value="A class implements the Cloneable interface to indicate to the Object.clone() method that it is legal for that method to make a field-for-field copy of instances of that class. Invoking Object's clone method on an instance that does not implement the Cloneable interface results in the exception CloneNotSupportedException being thrown. By convention, classes that implement this interface should override Object.clone (which is protected) with a public method. See Object.clone() for details on overriding this method. Note that this interface does not contain the clone method. Therefore, it is not possible to clone an object merely by virtue of the fact that it implements this interface. Even if the clone method is invoked reflectively, there is no guarantee that it will succeed." />
+      <item value="legal" />
+      <item value="indicate" />
       <item value="符号" />
       <item value="转义符号" />
       <item value="转义" />
@@ -51,14 +54,11 @@
       <item value="ahead" />
       <item value="compatible" />
       <item value="货币" />
-      <item value="货币误差" />
-      <item value="电子健康卡" />
-      <item value="一卡通" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="ENGLISH" value="111" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="ITALIAN" value="3" />
