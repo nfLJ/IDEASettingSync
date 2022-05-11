@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="506" />
+    <option name="newTranslationDialogWidth" value="502" />
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="344" />
     <histories>
+      <item value="snoopy" />
+      <item value="Objenesis" />
       <item value="皮试" />
       <item value="pi'shi" />
       <item value="A class implements the Cloneable interface to indicate to the Object.clone() method that it is legal for that method to make a field-for-field copy of instances of that class. Invoking Object's clone method on an instance that does not implement the Cloneable interface results in the exception CloneNotSupportedException being thrown. By convention, classes that implement this interface should override Object.clone (which is protected) with a public method. See Object.clone() for details on overriding this method. Note that this interface does not contain the clone method. Therefore, it is not possible to clone an object merely by virtue of the fact that it implements this interface. Even if the clone method is invoked reflectively, there is no guarantee that it will succeed." />
@@ -52,12 +54,10 @@
       <item value="arrows" />
       <item value="arroes" />
       <item value="presentation" />
-      <item value="pre" />
-      <item value="ahead" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
+        <entry key="CHINESE" value="118" />
         <entry key="ENGLISH" value="117" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650954348405" />
+    <option name="lastTrimTime" value="1652238462875" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
