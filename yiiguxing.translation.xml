@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="344" />
     <histories>
+      <item value="Usage Note If the class path of a class loader that is used for provider loading includes remote network URLs then those URLs will be dereferenced in the process of searching for provider-configuration files. This activity is normal, although it may cause puzzling entries to be created in web-server logs. If a web server is not configured correctly, however, then this activity may cause the provider-loading algorithm to fail spuriously. A web server should return an HTTP 404 (Not Found) response when a requested resource does not exist. Sometimes, however, web servers are erroneously configured to return an HTTP 200 (OK) response along with a helpful HTML error page in such cases. This will cause a ServiceConfigurationError to be thrown when this class attempts to parse the HTML page as a provider-configuration file. The best solution to this problem is to fix the misconfigured web server to return the correct response code (HTTP 404) along with the HTML error page." />
       <item value="snoopy" />
       <item value="Objenesis" />
       <item value="皮试" />
@@ -53,12 +54,11 @@
       <item value="tracker" />
       <item value="arrows" />
       <item value="arroes" />
-      <item value="presentation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="ITALIAN" value="3" />
