@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="500" />
+    <option name="newTranslationDialogWidth" value="498" />
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="344" />
     <histories>
+      <item value="诊疗费&#10;" />
+      <item value="zhen'cha" />
+      <item value="侦察" />
+      <item value="挂号费" />
+      <item value="挂号" />
+      <item value="gu" />
       <item value="费用" />
       <item value="Usage Note If the class path of a class loader that is used for provider loading includes remote network URLs then those URLs will be dereferenced in the process of searching for provider-configuration files. This activity is normal, although it may cause puzzling entries to be created in web-server logs. If a web server is not configured correctly, however, then this activity may cause the provider-loading algorithm to fail spuriously. A web server should return an HTTP 404 (Not Found) response when a requested resource does not exist. Sometimes, however, web servers are erroneously configured to return an HTTP 200 (OK) response along with a helpful HTML error page in such cases. This will cause a ServiceConfigurationError to be thrown when this class attempts to parse the HTML page as a provider-configuration file. The best solution to this problem is to fix the misconfigured web server to return the correct response code (HTTP 404) along with the HTML error page." />
       <item value="snoopy" />
@@ -48,17 +54,11 @@
       <item value="YJ" />
       <item value="escape" />
       <item value="e" />
-      <item value="医生代码" />
-      <item value="111" />
-      <item value="1111R" />
-      <item value="11" />
-      <item value="tracker" />
-      <item value="arrows" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="145" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="ITALIAN" value="3" />
