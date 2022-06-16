@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="494" />
+    <option name="newTranslationDialogWidth" value="492" />
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="344" />
     <histories>
+      <item value="delegate" />
       <item value="Criteria" />
       <item value="Abstract" />
       <item value="工作单位" />
@@ -53,11 +54,10 @@
       <item value="YYH" />
       <item value="Wrapper" />
       <item value="KSPB" />
-      <item value="set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
+        <entry key="CHINESE" value="149" />
         <entry key="ENGLISH" value="145" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
