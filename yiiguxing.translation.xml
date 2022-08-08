@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="462" />
+    <option name="newTranslationDialogWidth" value="458" />
     <option name="newTranslationDialogX" value="801" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="过时" />
+      <item value="超时" />
       <item value="中药房" />
       <item value="中药" />
       <item value="holder&#10;" />
@@ -52,8 +54,6 @@
       <item value="皮试" />
       <item value="pi'shi" />
       <item value="A class implements the Cloneable interface to indicate to the Object.clone() method that it is legal for that method to make a field-for-field copy of instances of that class. Invoking Object's clone method on an instance that does not implement the Cloneable interface results in the exception CloneNotSupportedException being thrown. By convention, classes that implement this interface should override Object.clone (which is protected) with a public method. See Object.clone() for details on overriding this method. Note that this interface does not contain the clone method. Therefore, it is not possible to clone an object merely by virtue of the fact that it implements this interface. Even if the clone method is invoked reflectively, there is no guarantee that it will succeed." />
-      <item value="legal" />
-      <item value="indicate" />
     </histories>
     <option name="languageScores">
       <map>
