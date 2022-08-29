@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="444" />
+    <option name="newTranslationDialogWidth" value="440" />
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="权限" />
       <item value="scale&#10;" />
       <item value="组织" />
       <item value="机构&#10;" />
@@ -54,7 +55,6 @@
       <item value="侦察" />
       <item value="挂号费" />
       <item value="挂号" />
-      <item value="gu" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660285881486" />
+    <option name="lastTrimTime" value="1661783466062" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
