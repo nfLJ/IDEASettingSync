@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Models core user information retrieved by a UserDetailsService. Developers may use this class directly, subclass it, or write their own UserDetails implementation from scratch. equals and hashcode implementations are based on the username property only, as the intention is that lookups of the same user principal object (in a user registry, for example) will match where the objects represent the same user, not just when all the properties (authorities, password for example) are the same. Note that this implementation is not immutable. It implements the CredentialsContainer interface, in order to allow the password to be erased after authentication. This may cause side-effects if you are storing instances in-memory and reusing them. If so, make sure you return a copy from your UserDetailsService each time it is invoked. Author: Ben Alex, Luke Taylor" />
       <item value="Interface used to indicate that a bean should run when it is contained within a SpringApplication. Multiple ApplicationRunner beans can be defined within the same application context and can be ordered using the Ordered interface or @Order annotation. Since: 1.3.0 See Also: CommandLineRunner Author: Phillip Webb" />
       <item value="indicate" />
       <item value="权限" />
@@ -54,12 +55,11 @@
       <item value="单" />
       <item value="单位" />
       <item value="诊疗费&#10;" />
-      <item value="zhen'cha" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="ITALIAN" value="3" />
