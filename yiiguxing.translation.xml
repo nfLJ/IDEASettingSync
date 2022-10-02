@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="434" />
-    <option name="newTranslationDialogX" value="591" />
-    <option name="newTranslationDialogY" value="322" />
+    <option name="newTranslationDialogWidth" value="426" />
+    <option name="newTranslationDialogX" value="392" />
+    <option name="newTranslationDialogY" value="268" />
     <histories>
+      <item value="Please use the in-app license activation wizard to set up your license" />
+      <item value="test@1163.com" />
       <item value="Assignee" />
       <item value="Milestone" />
       <item value="prefix" />
@@ -53,12 +55,10 @@
       <item value="come on" />
       <item value="Criteria" />
       <item value="Abstract" />
-      <item value="工作单位" />
-      <item value="工作" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
+        <entry key="CHINESE" value="176" />
         <entry key="ENGLISH" value="170" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
