@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="392" />
     <option name="newTranslationDialogY" value="268" />
     <histories>
+      <item value="parse" />
       <item value="visual" />
       <item value="blade&#10;" />
       <item value="bladxe&#10;" />
@@ -54,11 +55,10 @@
       <item value="yu" />
       <item value="yuy" />
       <item value="不能预约" />
-      <item value="不能" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
+        <entry key="CHINESE" value="182" />
         <entry key="ENGLISH" value="180" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
