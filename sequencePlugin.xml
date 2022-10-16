@@ -3,4 +3,7 @@
     <option name="callDepth" value="10" />
     <option name="projectClassesOnly" value="false" />
   </component>
+  <component name="sequencePlugin">
+    <option name="FONT_SIZE" value="14" />
+  </component>
 </application>
