@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="414" />
+    <option name="newTranslationDialogWidth" value="412" />
     <option name="newTranslationDialogX" value="392" />
     <option name="newTranslationDialogY" value="268" />
     <histories>
+      <item value="omitted for duplicate" />
+      <item value="omitted for dup" />
+      <item value="omitted for du" />
+      <item value="omitted for " />
+      <item value="omitted" />
+      <item value="om" />
+      <item value="ommi" />
+      <item value="ommited" />
       <item value="descendant" />
       <item value="ancestor" />
       <item value="multiple" />
@@ -47,18 +55,10 @@
       <item value="中药" />
       <item value="holder&#10;" />
       <item value="delegate&#10;" />
-      <item value="del" />
-      <item value="Holder" />
-      <item value="nHolder" />
-      <item value="BeanDefinitionHolder" />
-      <item value="delegate" />
-      <item value="S" />
-      <item value="Lambda Query Wrapper" />
-      <item value="预约" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
+        <entry key="CHINESE" value="185" />
         <entry key="ENGLISH" value="183" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
