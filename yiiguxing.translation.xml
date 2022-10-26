@@ -2,12 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="251" />
-    <option name="newTranslationDialogWidth" value="424" />
+    <option name="newTranslationDialogWidth" value="420" />
     <option name="newTranslationDialogX" value="392" />
     <option name="newTranslationDialogY" value="268" />
     <histories>
-      <item value="ch" />
+      <item value="book&#10;" />
+      <item value="anchor" />
       <item value="anch" />
+      <item value="anchro" />
+      <item value="ch" />
       <item value="anchor&#10;" />
       <item value="转义" />
       <item value="omitted for duplicate" />
@@ -53,13 +56,10 @@
       <item value="机构" />
       <item value="Organization" />
       <item value="Or" />
-      <item value="院区" />
-      <item value="过时" />
-      <item value="超时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
+        <entry key="CHINESE" value="190" />
         <entry key="ENGLISH" value="184" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
@@ -76,5 +76,7 @@
         <option name="appId" value="20220813001304829" />
       </app-key>
     </option>
+    <option name="phoneticFontFamily" value="JetBrains Mono Regular" />
+    <option name="primaryFontFamily" value="JetBrains Mono Regular" />
   </component>
 </application>
