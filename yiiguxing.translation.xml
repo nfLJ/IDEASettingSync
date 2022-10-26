@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="408" />
+    <option name="newTranslationDialogHeight" value="251" />
+    <option name="newTranslationDialogWidth" value="424" />
     <option name="newTranslationDialogX" value="392" />
     <option name="newTranslationDialogY" value="268" />
     <histories>
+      <item value="ch" />
+      <item value="anch" />
+      <item value="anchor&#10;" />
       <item value="转义" />
       <item value="omitted for duplicate" />
       <item value="omitted for dup" />
@@ -52,14 +56,11 @@
       <item value="院区" />
       <item value="过时" />
       <item value="超时" />
-      <item value="中药房" />
-      <item value="中药" />
-      <item value="holder&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="CHINESE" value="188" />
+        <entry key="ENGLISH" value="184" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="ITALIAN" value="3" />
