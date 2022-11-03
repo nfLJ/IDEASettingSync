@@ -6,6 +6,17 @@
     <option name="newTranslationDialogX" value="-1326" />
     <option name="newTranslationDialogY" value="549" />
     <histories>
+      <item value="It is important to realize that such a RateLimiter has a very superficial memory of the past: it only remembers the last request. What if the RateLimiter was unused for a long period of time, then a request arrived and was immediately granted? This RateLimiter would immediately forget about that past underutilization. This may result in either underutilization or overflow, depending on the real world consequences of not using the expected rate." />
+      <item value="The simplest way to maintain a rate of QPS is to keep the timestamp of the last granted request, and ensure that (1QPS) seconds have elapsed since then. For example, for a rate of QPS=5 (5 tokens per second), if we ensure that a request isn't granted earlier than 200ms after the last one, then we achieve the intended rate. If a request comes and the last request was granted only 100ms ago, then we wait for another 100ms. At this rate, serving 15 fresh permits (i.e. for an acquire(15) request) naturally takes 3 seconds." />
+      <item value="throttling" />
+      <item value="the appropriate throttle time" />
+      <item value="throttle" />
+      <item value="incoming" />
+      <item value="for an incoming request" />
+      <item value="i.e. compute" />
+      <item value="This is enforced by &quot;throttling&quot; incoming requests as needed" />
+      <item value="enforced" />
+      <item value="&quot;stable rate&quot;" />
       <item value="间距" />
       <item value="book" />
       <item value="boo" />
@@ -45,30 +56,19 @@
       <item value="collaborating beans" />
       <item value="Class to be extended by all application events. Abstract as it doesn't make sense for generic events to be published directly." />
       <item value="make sense" />
-      <item value="indicating" />
-      <item value="Please use the in-app license activation wizard to set up your license" />
-      <item value="test@1163.com" />
-      <item value="Assignee" />
-      <item value="Milestone" />
-      <item value="prefix" />
-      <item value="Models core user information retrieved by a UserDetailsService. Developers may use this class directly, subclass it, or write their own UserDetails implementation from scratch. equals and hashcode implementations are based on the username property only, as the intention is that lookups of the same user principal object (in a user registry, for example) will match where the objects represent the same user, not just when all the properties (authorities, password for example) are the same. Note that this implementation is not immutable. It implements the CredentialsContainer interface, in order to allow the password to be erased after authentication. This may cause side-effects if you are storing instances in-memory and reusing them. If so, make sure you return a copy from your UserDetailsService each time it is invoked. Author: Ben Alex, Luke Taylor" />
-      <item value="Interface used to indicate that a bean should run when it is contained within a SpringApplication. Multiple ApplicationRunner beans can be defined within the same application context and can be ordered using the Ordered interface or @Order annotation. Since: 1.3.0 See Also: CommandLineRunner Author: Phillip Webb" />
-      <item value="indicate" />
-      <item value="权限" />
-      <item value="q" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
-        <entry key="ITALIAN" value="3" />
+        <entry key="ITALIAN" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666949773011" />
+    <option name="lastTrimTime" value="1667444087400" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
