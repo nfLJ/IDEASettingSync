@@ -2,10 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="251" />
-    <option name="newTranslationDialogWidth" value="414" />
-    <option name="newTranslationDialogX" value="-1326" />
-    <option name="newTranslationDialogY" value="549" />
+    <option name="newTranslationDialogWidth" value="412" />
+    <option name="newTranslationDialogX" value="568" />
+    <option name="newTranslationDialogY" value="251" />
     <histories>
+      <item value="锚点" />
+      <item value="anchorpoint" />
+      <item value="anchorpo" />
+      <item value="anchor" />
+      <item value="an" />
+      <item value="anh" />
       <item value="It is important to realize that such a RateLimiter has a very superficial memory of the past: it only remembers the last request. What if the RateLimiter was unused for a long period of time, then a request arrived and was immediately granted? This RateLimiter would immediately forget about that past underutilization. This may result in either underutilization or overflow, depending on the real world consequences of not using the expected rate." />
       <item value="The simplest way to maintain a rate of QPS is to keep the timestamp of the last granted request, and ensure that (1QPS) seconds have elapsed since then. For example, for a rate of QPS=5 (5 tokens per second), if we ensure that a request isn't granted earlier than 200ms after the last one, then we achieve the intended rate. If a request comes and the last request was granted only 100ms ago, then we wait for another 100ms. At this rate, serving 15 fresh permits (i.e. for an acquire(15) request) naturally takes 3 seconds." />
       <item value="throttling" />
@@ -24,7 +30,6 @@
       <item value="book&#10;" />
       <item value="bo" />
       <item value="bok" />
-      <item value="anchor" />
       <item value="anch" />
       <item value="anchro" />
       <item value="ch" />
@@ -51,16 +56,11 @@
       <item value="文件操作&#10;" />
       <item value="文件操作" />
       <item value="文件" />
-      <item value="Along with" />
-      <item value="Interface to be implemented by any object that wishes to be notified of the ApplicationContext that it runs in. Implementing this interface makes sense for example when an object requires access to a set of collaborating beans. Note that configuration via bean references is preferable to implementing this interface just for bean lookup purposes. This interface can also be implemented if an object needs access to file resources, i.e. wants to call getResource, wants to publish an application event, or requires access to the MessageSource. However, it is preferable to implement the more specific ResourceLoaderAware, ApplicationEventPublisherAware or MessageSourceAware interface in such a specific scenario. Note that file resource dependencies can also be exposed as bean properties of type org.springframework.core.io.Resource, populated via Strings with automatic type conversion by the bean factory. This removes the need for implementing any callback interface just for the purpose of accessing a specific file resource. org.springframework.context.support.ApplicationObjectSupport is a convenience base class for application objects, implementing this interface." />
-      <item value="collaborating beans" />
-      <item value="Class to be extended by all application events. Abstract as it doesn't make sense for generic events to be published directly." />
-      <item value="make sense" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="ITALIAN" value="4" />
