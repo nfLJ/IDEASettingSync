@@ -92,6 +92,25 @@
         <option value="dev" />
       </list>
     </option>
+    <option name="paramGroup">
+      <ParamGroup>
+        <option name="bodyParamMap">
+          <map>
+            <entry key="request">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.bsoft.hihis.exchange.controller.SelfServiceMachineController" />
+        <option name="method" value="certificateAndUpdatePatientInfo" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="hihis-exchange" />
+        <option name="originUrl" value="/selfServiceMachine/certificateAndUpdatePatientInfo" />
+      </ParamGroup>
+    </option>
     <option name="projectList">
       <list>
         <option value="exchange" />
