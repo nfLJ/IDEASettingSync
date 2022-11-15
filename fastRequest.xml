@@ -87,6 +87,8 @@
         </DataMapping>
       </list>
     </option>
+    <option name="enableEnv" value="dev" />
+    <option name="enableProject" value="exchange" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -108,7 +110,7 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="hihis-exchange" />
-        <option name="originUrl" value="/selfServiceMachine/certificateAndUpdatePatientInfo" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
