@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="251" />
-    <option name="newTranslationDialogWidth" value="404" />
+    <option name="newTranslationDialogWidth" value="402" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="251" />
     <histories>
+      <item value="自助机" />
       <item value="Pagination" />
       <item value="reissue" />
       <item value="hex" />
@@ -55,7 +56,6 @@
       <item value="nested" />
       <item value="parse" />
       <item value="visual" />
-      <item value="blade&#10;" />
     </histories>
     <option name="languageScores">
       <map>
