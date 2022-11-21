@@ -1,0 +1,82 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="251" />
+    <option name="newTranslationDialogWidth" value="400" />
+    <option name="newTranslationDialogX" value="568" />
+    <option name="newTranslationDialogY" value="251" />
+    <histories>
+      <item value="artifact" />
+      <item value="自助机" />
+      <item value="Pagination" />
+      <item value="reissue" />
+      <item value="hex" />
+      <item value="hes" />
+      <item value="cancelReservation" />
+      <item value="cancelReservation&#9;" />
+      <item value="锚点" />
+      <item value="anchorpoint" />
+      <item value="anchorpo" />
+      <item value="anchor" />
+      <item value="an" />
+      <item value="anh" />
+      <item value="It is important to realize that such a RateLimiter has a very superficial memory of the past: it only remembers the last request. What if the RateLimiter was unused for a long period of time, then a request arrived and was immediately granted? This RateLimiter would immediately forget about that past underutilization. This may result in either underutilization or overflow, depending on the real world consequences of not using the expected rate." />
+      <item value="The simplest way to maintain a rate of QPS is to keep the timestamp of the last granted request, and ensure that (1QPS) seconds have elapsed since then. For example, for a rate of QPS=5 (5 tokens per second), if we ensure that a request isn't granted earlier than 200ms after the last one, then we achieve the intended rate. If a request comes and the last request was granted only 100ms ago, then we wait for another 100ms. At this rate, serving 15 fresh permits (i.e. for an acquire(15) request) naturally takes 3 seconds." />
+      <item value="throttling" />
+      <item value="the appropriate throttle time" />
+      <item value="throttle" />
+      <item value="incoming" />
+      <item value="for an incoming request" />
+      <item value="i.e. compute" />
+      <item value="This is enforced by &quot;throttling&quot; incoming requests as needed" />
+      <item value="enforced" />
+      <item value="&quot;stable rate&quot;" />
+      <item value="间距" />
+      <item value="book" />
+      <item value="boo" />
+      <item value="b" />
+      <item value="book&#10;" />
+      <item value="bo" />
+      <item value="bok" />
+      <item value="anch" />
+      <item value="anchro" />
+      <item value="ch" />
+      <item value="anchor&#10;" />
+      <item value="转义" />
+      <item value="omitted for duplicate" />
+      <item value="omitted for dup" />
+      <item value="omitted for du" />
+      <item value="omitted for " />
+      <item value="omitted" />
+      <item value="om" />
+      <item value="ommi" />
+      <item value="ommited" />
+      <item value="descendant" />
+      <item value="ancestor" />
+      <item value="multiple" />
+      <item value="nested" />
+      <item value="parse" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="204" />
+        <entry key="ENGLISH" value="200" />
+        <entry key="SLOVENIAN" value="1" />
+        <entry key="UZBEK" value="3" />
+        <entry key="ITALIAN" value="4" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1668598069998" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20220813001304829" />
+      </app-key>
+    </option>
+    <option name="phoneticFontFamily" value="JetBrains Mono Regular" />
+    <option name="primaryFontFamily" value="JetBrains Mono Regular" />
+  </component>
+</application>

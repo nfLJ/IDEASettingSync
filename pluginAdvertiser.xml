@@ -1102,6 +1102,30 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.log">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.cybrosis.catdea" />
+              <option name="myPluginName" value="Catdea" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.logcat">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.cybrosis.catdea" />
+              <option name="myPluginName" value="Catdea" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.logdump">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.cybrosis.catdea" />
+              <option name="myPluginName" value="Catdea" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.markdown">
           <value>
             <plugin>

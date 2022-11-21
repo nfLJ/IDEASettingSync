@@ -1,0 +1,7 @@
+<templateSet group="mygroup">
+  <template name="ljcom" value="/**&#10; * @author liujiang&#10; * @desc&#10; */" description="addcommend" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
