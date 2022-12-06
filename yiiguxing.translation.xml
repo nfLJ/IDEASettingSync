@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="251" />
-    <option name="newTranslationDialogWidth" value="398" />
+    <option name="newTranslationDialogWidth" value="396" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="251" />
     <histories>
+      <item value="monther&#10;" />
       <item value="专业" />
       <item value="artifact" />
       <item value="自助机" />
@@ -55,11 +56,10 @@
       <item value="descendant" />
       <item value="ancestor" />
       <item value="multiple" />
-      <item value="nested" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
+        <entry key="CHINESE" value="205" />
         <entry key="ENGLISH" value="200" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669706696040" />
+    <option name="lastTrimTime" value="1670307783578" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
