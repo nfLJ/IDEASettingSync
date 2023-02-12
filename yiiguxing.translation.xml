@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="251" />
-    <option name="newTranslationDialogWidth" value="394" />
+    <option name="newTranslationDialogWidth" value="392" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="251" />
     <histories>
+      <item value="divide&#10;" />
+      <item value="div" />
       <item value="dispute" />
       <item value="monther&#10;" />
       <item value="专业" />
@@ -54,12 +56,10 @@
       <item value="om" />
       <item value="ommi" />
       <item value="ommited" />
-      <item value="descendant" />
-      <item value="ancestor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
+        <entry key="CHINESE" value="207" />
         <entry key="ENGLISH" value="200" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
