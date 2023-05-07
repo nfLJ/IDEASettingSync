@@ -78,7 +78,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle.19">
-      <artifact id="Oracle" name="Oracle" use="true" version="21.1.0.0" />
+      <artifact id="Oracle" name="Oracle" channel="fixed" rolling="false" use="true" version="11.2.0.4" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
       <option name="format-sources-on-sync" value="true" />
