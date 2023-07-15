@@ -2,12 +2,20 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="251" />
-    <option name="newTranslationDialogWidth" value="370" />
+    <option name="newTranslationDialogWidth" value="364" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="251" />
     <histories>
-      <item value="ds " />
+      <item value="本地" />
+      <item value="bendi" />
+      <item value="local本地" />
+      <item value="localbendi" />
+      <item value="local" />
+      <item value="pretty" />
+      <item value="sd" />
+      <item value="s" />
       <item value="ds" />
+      <item value="ds " />
       <item value="dd" />
       <item value="但是" />
       <item value="d" />
@@ -48,19 +56,11 @@
       <item value="&quot;stable rate&quot;" />
       <item value="间距" />
       <item value="book" />
-      <item value="boo" />
-      <item value="b" />
-      <item value="book&#10;" />
-      <item value="bo" />
-      <item value="bok" />
-      <item value="anch" />
-      <item value="anchro" />
-      <item value="ch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="262" />
+        <entry key="CHINESE" value="329" />
+        <entry key="ENGLISH" value="317" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="ITALIAN" value="4" />
