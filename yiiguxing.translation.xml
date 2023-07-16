@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="251" />
-    <option name="newTranslationDialogWidth" value="362" />
+    <option name="newTranslationDialogWidth" value="360" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="251" />
     <histories>
+      <item value="请求" />
+      <item value="qingqiuy" />
       <item value="但是" />
       <item value="ds " />
       <item value="ds" />
@@ -54,13 +56,11 @@
       <item value="This is enforced by &quot;throttling&quot; incoming requests as needed" />
       <item value="enforced" />
       <item value="&quot;stable rate&quot;" />
-      <item value="间距" />
-      <item value="book" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="343" />
+        <entry key="ENGLISH" value="331" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="ITALIAN" value="4" />
