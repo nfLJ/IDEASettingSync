@@ -3,7 +3,8 @@
     <option name="applyColorsOfRoundForAllBrackets" value="true" />
     <option name="cycleCountOnAllBrackets" value="true" />
     <option name="doNOTRainbowifyBigFiles" value="false" />
+    <option name="indentGuidesOptions" value="Only selected indent guide" />
     <option name="useColorGenerator" value="true" />
-    <option name="version" value="6.23" />
+    <option name="version" value="2023.3.2-ij" />
   </component>
 </application>
