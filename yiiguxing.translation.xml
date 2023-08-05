@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="174" />
-    <option name="newTranslationDialogWidth" value="436" />
+    <option name="newTranslationDialogHeight" value="165" />
+    <option name="newTranslationDialogWidth" value="430" />
     <option name="newTranslationDialogX" value="872" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="english" />
+      <item value="en" />
+      <item value="book" />
       <item value="TOOL" />
       <item value="tool" />
       <item value="tools" />
@@ -53,9 +56,6 @@
       <item value="anchorpoint" />
       <item value="anchorpo" />
       <item value="anchor" />
-      <item value="an" />
-      <item value="anh" />
-      <item value="It is important to realize that such a RateLimiter has a very superficial memory of the past: it only remembers the last request. What if the RateLimiter was unused for a long period of time, then a request arrived and was immediately granted? This RateLimiter would immediately forget about that past underutilization. This may result in either underutilization or overflow, depending on the real world consequences of not using the expected rate." />
     </histories>
     <option name="languageScores">
       <map>
