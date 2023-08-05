@@ -1,6 +1,11 @@
 <keymap version="1" name="Windows copy" parent="$default">
   <action id="$EditorTranslateAction" />
-  <action id="$ShowTranslationDialogAction" />
+  <action id="$ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Editor ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
