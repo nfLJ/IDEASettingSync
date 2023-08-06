@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="165" />
-    <option name="newTranslationDialogWidth" value="430" />
+    <option name="newTranslationDialogWidth" value="428" />
     <option name="newTranslationDialogX" value="872" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="caret&#10;" />
+      <item value="cara" />
+      <item value="car" />
       <item value="english" />
       <item value="en" />
       <item value="book" />
@@ -53,9 +56,6 @@
       <item value="cancelReservation" />
       <item value="cancelReservation&#9;" />
       <item value="锚点" />
-      <item value="anchorpoint" />
-      <item value="anchorpo" />
-      <item value="anchor" />
     </histories>
     <option name="languageScores">
       <map>
