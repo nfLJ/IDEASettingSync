@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="160" />
-    <option name="newTranslationDialogWidth" value="426" />
+    <option name="newTranslationDialogWidth" value="424" />
     <option name="newTranslationDialogX" value="462" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="惠民优抚" />
+      <item value="惠民" />
       <item value="duplicate&#10;" />
       <item value="dup;" />
       <item value="caret&#10;" />
@@ -54,8 +56,6 @@
       <item value="Pagination" />
       <item value="reissue" />
       <item value="hex" />
-      <item value="hes" />
-      <item value="cancelReservation" />
     </histories>
     <option name="languageScores">
       <map>
