@@ -2,10 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="160" />
-    <option name="newTranslationDialogWidth" value="424" />
+    <option name="newTranslationDialogWidth" value="414" />
     <option name="newTranslationDialogX" value="462" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="提示" />
+      <item value="提示内容" />
+      <item value="提示neir" />
+      <item value="tis" />
+      <item value="拦截" />
+      <item value="校验" />
       <item value="惠民优抚" />
       <item value="惠民" />
       <item value="duplicate&#10;" />
@@ -50,12 +56,6 @@
       <item value="div" />
       <item value="dispute" />
       <item value="monther&#10;" />
-      <item value="专业" />
-      <item value="artifact" />
-      <item value="自助机" />
-      <item value="Pagination" />
-      <item value="reissue" />
-      <item value="hex" />
     </histories>
     <option name="languageScores">
       <map>
