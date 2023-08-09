@@ -3,6 +3,9 @@
   <action id="$ShowTranslationDialogAction">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="EditBookmark">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Editor ShowTranslationDialogAction">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
