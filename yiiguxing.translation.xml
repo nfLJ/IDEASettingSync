@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="160" />
-    <option name="newTranslationDialogWidth" value="414" />
+    <option name="newTranslationDialogHeight" value="155" />
+    <option name="newTranslationDialogWidth" value="412" />
     <option name="newTranslationDialogX" value="462" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Reservation" />
+      <item value="CancelReservation" />
+      <item value="Cancel" />
       <item value="提示" />
       <item value="提示内容" />
       <item value="提示neir" />
@@ -53,9 +56,6 @@
       <item value="费用" />
       <item value="Ambiguous" />
       <item value="divide&#10;" />
-      <item value="div" />
-      <item value="dispute" />
-      <item value="monther&#10;" />
     </histories>
     <option name="languageScores">
       <map>
