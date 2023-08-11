@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="155" />
-    <option name="newTranslationDialogWidth" value="412" />
+    <option name="newTranslationDialogHeight" value="147" />
+    <option name="newTranslationDialogWidth" value="410" />
     <option name="newTranslationDialogX" value="462" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="中医" />
+      <item value="zhong" />
+      <item value="zhongi" />
+      <item value="zhon" />
+      <item value="zhony" />
       <item value="Reservation" />
       <item value="CancelReservation" />
       <item value="Cancel" />
@@ -51,11 +56,6 @@
       <item value="dd" />
       <item value="d" />
       <item value="结算" />
-      <item value="收费信息" />
-      <item value="费用信息" />
-      <item value="费用" />
-      <item value="Ambiguous" />
-      <item value="divide&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1691238981641" />
+    <option name="lastTrimTime" value="1691766004287" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
