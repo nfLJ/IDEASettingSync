@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="147" />
-    <option name="newTranslationDialogWidth" value="406" />
+    <option name="newTranslationDialogWidth" value="404" />
     <option name="newTranslationDialogX" value="462" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="自助机" />
       <item value="业务类型" />
       <item value="Reconciliation" />
       <item value="中医" />
@@ -55,7 +56,6 @@
       <item value="pretty" />
       <item value="sd" />
       <item value="s" />
-      <item value="dd" />
     </histories>
     <option name="languageScores">
       <map>
