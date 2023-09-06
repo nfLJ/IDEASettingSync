@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="147" />
-    <option name="newTranslationDialogWidth" value="402" />
+    <option name="newTranslationDialogHeight" value="144" />
+    <option name="newTranslationDialogWidth" value="400" />
     <option name="newTranslationDialogX" value="462" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="管理员" />
       <item value="自助机" />
       <item value="业务类型" />
       <item value="Reconciliation" />
@@ -55,7 +56,6 @@
       <item value="local" />
       <item value="pretty" />
       <item value="sd" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1692754005351" />
+    <option name="lastTrimTime" value="1693986570654" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
