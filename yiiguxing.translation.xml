@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="144" />
-    <option name="newTranslationDialogWidth" value="398" />
+    <option name="newTranslationDialogWidth" value="396" />
     <option name="newTranslationDialogX" value="462" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="检验" />
       <item value="退费用" />
       <item value="退费yong" />
       <item value="退费" />
@@ -55,7 +56,6 @@
       <item value="ds" />
       <item value="本地" />
       <item value="bendi" />
-      <item value="local本地" />
     </histories>
     <option name="languageScores">
       <map>
