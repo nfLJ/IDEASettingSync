@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="144" />
-    <option name="newTranslationDialogWidth" value="396" />
+    <option name="newTranslationDialogWidth" value="392" />
     <option name="newTranslationDialogX" value="462" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="未" />
+      <item value="未上传" />
       <item value="Returns a Collector that accumulates elements into a Map whose keys and values are the result of applying the provided mapping functions to the input elements. If the mapped keys contains duplicates (according to Object.equals(Object)), the value mapping function is applied to each equal element, and the results are merged using the provided merging function. Params: keyMapper – a mapping function to produce keys valueMapper – a mapping function to produce values mergeFunction – a merge function, used to resolve collisions between values associated with the same key, as supplied to Map.merge(Object, Object, BiFunction) Type parameters: &lt;T&gt; – the type of the input elements &lt;K&gt; – the output type of the key mapping function &lt;U&gt; – the output type of the value mapping function Returns: a Collector which collects elements into a Map whose keys are the result of applying a key mapping function to the input elements, and whose values are the result of applying a value mapping function to all input elements equal to the key and combining them using the merge function API Note: There are multiple ways to deal with collisions between multiple elements mapping to the same key. The other forms of toMap simply use a merge function that throws unconditionally, but you can easily write more flexible merge policies. For example, if you have a stream of Person, and you want to produce a &quot;phone book&quot; mapping name to address, but it is possible that two persons have the same name, you can do as follows to gracefully deals with these collisions, and produce a Map mapping names to a concatenated list of addresses: Map&lt;String, String&gt; phoneBook people.stream().collect(toMap(Person::getName, Person::getAddress, (s, a) -&gt; s + &quot;, &quot; + a)); Implementation Note: The returned Collector is not concurrent. For parallel stream pipelines, the combiner function operates by merging the keys from one map into another, which can be an expensive operation. If it is not required that results are merged into the Map in encounter order, using toConcurrentMap(Function, Function, BinaryOperator) may offer better parallel performance. See Also: toMap(Function, Function), toMap(Function, Function, BinaryOperator, Supplier), toConcurrentMap(Function, Function, BinaryOperator)" />
       <item value="检验" />
       <item value="退费用" />
@@ -54,8 +56,6 @@
       <item value="qingqiuy" />
       <item value="但是" />
       <item value="ds " />
-      <item value="ds" />
-      <item value="本地" />
     </histories>
     <option name="languageScores">
       <map>
