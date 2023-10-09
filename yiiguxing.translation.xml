@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="144" />
-    <option name="newTranslationDialogWidth" value="392" />
+    <option name="newTranslationDialogHeight" value="139" />
+    <option name="newTranslationDialogWidth" value="388" />
     <option name="newTranslationDialogX" value="462" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="惠民" />
+      <item value="hium" />
+      <item value="优抚惠民" />
+      <item value="优抚huim" />
+      <item value="优抚" />
       <item value="Consequently" />
       <item value="exception" />
       <item value="transaction" />
@@ -42,7 +47,6 @@
       <item value="拦截" />
       <item value="校验" />
       <item value="惠民优抚" />
-      <item value="惠民" />
       <item value="duplicate&#10;" />
       <item value="dup;" />
       <item value="caret&#10;" />
@@ -52,10 +56,6 @@
       <item value="en" />
       <item value="book" />
       <item value="TOOL" />
-      <item value="tool" />
-      <item value="tools" />
-      <item value="liujiag" />
-      <item value="liujia" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1695971416876" />
+    <option name="lastTrimTime" value="1696840194696" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
